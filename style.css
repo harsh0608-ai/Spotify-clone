@@ -114,6 +114,10 @@ a{
     margin-top: 0.5rem;
     width: fit-content;
 }
+button:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
 .Topheader{
     position: sticky;
     top: 0;
@@ -306,4 +310,10 @@ a{
 }
 .card:hover{
     width: 175px;
+}
+img:hover{
+    cursor: pointer;
+}
+i:hover{
+    cursor: pointer;
 }
